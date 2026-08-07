@@ -7,11 +7,16 @@ I'm a Computer Science undergraduate at VIT-AP University, passionate about buil
 Deep Learning: Exploring neural network architectures, from CNNs to Vision Transformers.
 Computer Vision: Building systems that can interpret and process visual data.
 ML System Design: Bridging the gap between research models and production-ready APIs.
+
+
 🛠️ Tech Stack
 
 Languages: Python, Java, C++
+
 AI/ML/DL: PyTorch, OpenCV, Scikit-learn, MediaPipe
+
 Backend & Tools: FastAPI, AWS, Git, Linux
+
 🚀 I am always exploring new research papers, experimenting with model architectures, and looking for ways to deploy ML models efficiently.
 
 📫 Let's Connect
