@@ -1,6 +1,6 @@
 # Hi there, I'm Ankur Das 👋
 
-I'm a Computer Science undergraduate at VIT-AP University, passionate about building intelligent systems and solving complex problems through data.
+I'm a Computer Science undergraduate at Vellore Institute of Technology, passionate about building intelligent systems and solving complex problems through data.
 
 🧠 My InterestsI am deeply fascinated by Artificial Intelligence and Machine Learning. My primary focus areas include:
 
