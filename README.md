@@ -16,5 +16,5 @@ Backend & Tools: FastAPI, AWS, Git, Linux
 
 📫 Let's Connect
 
-LinkedIn: in/ankurdas2006
+LinkedIn: [in/ankurdas2006](https://www.linkedin.com/in/ankurdas2006/)
 Email: 2006ankurdas@gmail.com
