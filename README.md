@@ -1,4 +1,4 @@
-# Hi there, I'm Ankur Das 👋
+# Hi there, I'm Ankur 👋
 
 I'm a Computer Science undergraduate at Vellore Institute of Technology, passionate about building intelligent systems and solving complex problems through data.
 
