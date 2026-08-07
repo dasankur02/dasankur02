@@ -12,9 +12,7 @@ ML System Design: Bridging the gap between research models and production-ready 
 🛠️ Tech Stack
 
 Languages: Python, Java, C++
-
 AI/ML/DL: PyTorch, OpenCV, Scikit-learn, MediaPipe
-
 Backend & Tools: FastAPI, AWS, Git, Linux
 
 🚀 I am always exploring new research papers, experimenting with model architectures, and looking for ways to deploy ML models efficiently.
