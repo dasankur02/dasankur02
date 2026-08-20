@@ -1,5 +1,6 @@
-# ankur this side ^^
-<img width="200" height="193" alt=" " src="https://github.com/user-attachments/assets/5b1ee314-063e-4cfe-b844-58cfb0f472b5" />
+# ankur this side  ^^
+<img width="200" height="200" alt="Happy Pink Sticker - Find   Share on GIPHY" src="https://github.com/user-attachments/assets/2c079cea-d5d7-4ed2-a995-87863a309184" />
+
 
 
 I'm a Computer Science undergraduate at Vellore Institute of Technology, passionate about building intelligent systems and solving complex problems through data.
