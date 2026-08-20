@@ -1,4 +1,6 @@
-# Hi there, I'm Ankur 
+# ankur this side ^^
+<img width="200" height="193" alt=" " src="https://github.com/user-attachments/assets/5b1ee314-063e-4cfe-b844-58cfb0f472b5" />
+
 
 I'm a Computer Science undergraduate at Vellore Institute of Technology, passionate about building intelligent systems and solving complex problems through data.
 
